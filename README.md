@@ -1,8 +1,7 @@
 <!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
-<p align="center"> <h1 align="center"> Hi, I am Rahul Kashyap <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<p align="center"> <h1 align="center"> Hi, I am Rahul Kashyap <img src="https://raw.githubusercontent.com/alibalaban/alibalaban/assets/profile.png" 
          alt="Waving hand animated gif"
-         height="45"
-         width="45" /></h1> </p>
+        /></h1> </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/alibalaban/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="https://leetcode.com/imkashyap/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
@@ -14,10 +13,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
 
-- I am a Software Engineer at Samsung. My skills at work include Java, Spring, gRPC.
-- I am a 2022 Batch Electrical Engineering Graduate from [IEM, Kolkata](https://iem.edu.in/).
-- I am a Fullstack Flutter Developer. I build a no. of android applications with flutter as well as kotlin with backend in Firebase/NodeJS.
-- I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in java.
+- I am a <strong>Front End Web Developer</strong>
+- I am improving myself in the field of Javascript
+- I can design banners and banners using Adobe Photoshop program.
+- I can design a logo with Adobe Illustrator program
 
 ---
 
@@ -25,12 +24,12 @@
 
 <table style="width:100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=imkashyap&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKashyap&theme=dark&hide_border=true&layout=compact"></td>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=alibalaban&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibalaban&theme=dark&hide_border=true&layout=compact"></td>
   </tr>
 </table>
 
-<!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
+<!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alibalaban&theme=tokyonight)](https://github.com/alibalaban/github-readme-stats)-->
 <!-- *** -->
 <!--START_SECTION:waka-->
 
@@ -62,7 +61,7 @@ No Activity Tracked This Week
 
 **♨️ &nbsp;DSA Analytics**
 
-<p align="center"> <img src="https://leetcard.jacoblin.cool/imkashyap?theme=dark&font=Noto%20Sans&ext=contest" 
+<p align="center"> <img src="https://leetcard.jacoblin.cool/alibalaban?theme=dark&font=Noto%20Sans&ext=contest" 
          alt="Leetcode stats" height="350"/></p>
          
 ***
