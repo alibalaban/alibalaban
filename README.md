@@ -1,7 +1,7 @@
 <p align="center"> <img src="/assets/profile.png" 
          alt="Front End Developer"></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/alibalaban/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/alibalaban/" text-decoration="none"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="https://www.hackerrank.com/alibalaban><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
 <a href="https://twitter.com/balabanturk/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
 <a href="https://www.instagram.com/balabanturk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
