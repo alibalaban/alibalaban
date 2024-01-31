@@ -61,6 +61,6 @@
 
 <div align="center">
 
-# Don't forget to star the repositories you like. 😊
+# 😊 Don't forget to star the repositories you like. 😊
 
 </div>
