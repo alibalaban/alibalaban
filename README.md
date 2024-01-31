@@ -1,5 +1,4 @@
-<!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
-<p align="center"> <img src="https://raw.githubusercontent.com/alibalaban/alibalaban/assets/profile.png" 
+<p align="center"> <img src="/alibalaban/alibalaban/balaban/assets/profile.png" 
          alt="Front End Developer"></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/alibalaban/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
