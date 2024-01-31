@@ -48,7 +48,7 @@
     <tr>
       <td>
       <p align="center">
-        <img height="50%" width="auto" src ="https://github-profile-trophy.vercel.app/?username=alibalaban&theme=onedark&column=4">
+[![trophy](https://github-trophies.vercel.app/?username=lucthienphong1120&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
       </p>
       </td>
     </tr>
