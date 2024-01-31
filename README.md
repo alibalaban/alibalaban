@@ -43,6 +43,20 @@
 
 ---
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+      <p align="center">
+        <img height="50%" width="auto" src ="https://github-profile-trophy.vercel.app/?username=alibalaban&theme=onedark&column=4">
+      </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 <div align="center">
 
 # Don't forget to star the repositories you like. 😅
