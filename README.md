@@ -10,7 +10,7 @@
 <a href="mailto:ppashazadee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alibalaban&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22alibalaban" /> </p>
 
 - I am a <strong>Front End Web Developer</strong>
 - I am improving myself in the field of Javascript
