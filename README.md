@@ -21,7 +21,7 @@
 
 <table style="width:100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=alibalaban&show_icons=true&theme=dark&locale=en&hide_border=true" alt="alibalaban" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=alibalaban&show_icons=true&theme=dark&locale=en&hide_border=true" alt="alibalaban" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibalaban&theme=dark&hide_border=true&layout=compact"></td>
   </tr>
 </table>
