@@ -2,12 +2,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/alibalaban/alibalaban/assets/profile.png" 
          alt="Front End Developer"></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/alibalaban/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://leetcode.com/imkashyap/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
-<a href="https://www.hackerrank.com/alibalaban><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
-<a href="https://twitter.com/balabanturk/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
-<a href="https://www.instagram.com/balabanturk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="mailto:ppashazadee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/balabanturk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/balabanturk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alibalaban) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alibalaban) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20815060/ali-balaban) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/balabanturk) 
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alibalaban&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22alibalaban" /> </p>
@@ -23,7 +18,7 @@
 
 <table style="width:100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=alibalaban&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=alibalaban&show_icons=true&theme=dark&locale=en&hide_border=true" alt="alibalaban" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibalaban&theme=dark&hide_border=true&layout=compact"></td>
   </tr>
 </table>
