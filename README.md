@@ -2,7 +2,11 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/alibalaban/alibalaban/assets/profile.png" 
          alt="Front End Developer"></p>
 <p align="center">
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/balabanturk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/balabanturk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alibalaban) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alibalaban) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20815060/ali-balaban) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/balabanturk) 
+<a href="https://www.linkedin.com/in/alibalaban/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.hackerrank.com/alibalaban><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
+<a href="https://twitter.com/balabanturk/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
+<a href="https://www.instagram.com/balabanturk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+<a href="mailto:ppashazadee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alibalaban&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22alibalaban" /> </p>
@@ -26,8 +30,6 @@
 <!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alibalaban&theme=tokyonight)](https://github.com/alibalaban/github-readme-stats)-->
 <!-- *** -->
 <!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
 
 <!--
 📊 **This Week I Spent My Time On**
@@ -57,27 +59,15 @@ No Activity Tracked This Week
 
 **🛠 &nbsp;Tech Stack**
 
-- Languages: &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
-
-- Frameworks: &nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
-  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=B7C220)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
-
-- Databases: &nbsp;
-  ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
-  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb)
-  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
-
-- IDEs: &nbsp;
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=f70486)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
