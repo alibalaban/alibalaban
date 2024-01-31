@@ -19,13 +19,13 @@
 
 **⚙️ &nbsp;GitHub Analytics**
 
-<table style="width:100%">
+<table align="center" style="width:100%">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=alibalaban&show_icons=true&theme=dark&locale=en&hide_border=true" alt="Ali Balaban Github Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibalaban&theme=dark&hide_border=true&layout=compact" alt="Ali Balaban Used Language"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=alibalaban&theme=dark&hide_border=true" alt="Ali Balaban Commit Stats"/></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=alibalaban&theme=dark&hide_border=true" alt="Ali Balaban Commit Stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibalaban&theme=dark&hide_border=true&layout=compact" alt="Ali Balaban Used Language"></td>
   </tr>
 </table>
 
