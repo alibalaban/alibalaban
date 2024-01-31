@@ -42,12 +42,12 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ---
 
-<table>
+<table style="width:100%">
   <tbody>
     <tr>
       <td>
       <p align="center" width="100%">
-        <img height="50%" width="33%" src ="https://github-trophies.vercel.app/?username=alibalaban&theme=chalk&row=1&column=5">
+        <img height="50%" width="auto" src ="https://github-trophies.vercel.app/?username=alibalaban&theme=chalk&row=1&column=5">
       </p>
       </td>
     </tr>
