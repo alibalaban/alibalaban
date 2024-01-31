@@ -47,7 +47,7 @@
     <tr>
       <td>
       <p align="center">
-        <img height="50%" width="auto" src ="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=chalk">
+        <img height="50%" width="auto" src ="https://github-trophies.vercel.app/?username=alibalaban&theme=chalk&row=1">
       </p>
       </td>
     </tr>
