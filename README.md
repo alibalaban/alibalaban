@@ -1,6 +1,4 @@
-<style>
-  a{text-decoration:none!important;color:red;}
-</style>
+a{text-decoration:none!important;color:red;}
 
 <p align="center"> <img src="/assets/profile.png" 
          alt="Front End Developer"></p>
