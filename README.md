@@ -30,7 +30,6 @@
 
 **🛠 &nbsp;Tech Equipment**
 
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -48,7 +47,7 @@
     <tr>
       <td>
       <p align="center">
-[![trophy](https://github-trophies.vercel.app/?username=lucthienphong1120&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
+        <img height="50%" width="auto" src ="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=chalk">
       </p>
       </td>
     </tr>
