@@ -25,7 +25,7 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=alibalaban&show_icons=true&theme=dark&locale=en&hide_border=true" alt="Ali Balaban Github Stats" /></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=alibalaban&theme=dark&hide_border=true" alt="Ali Balaban Commit Stats"/></td>
 
-    </tbody>
+
 </table>
 
 
